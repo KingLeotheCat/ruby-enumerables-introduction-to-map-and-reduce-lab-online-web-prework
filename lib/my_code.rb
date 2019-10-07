@@ -34,3 +34,11 @@ end
 
 
 def reduce_to_total(source_array, starting_point)
+  i=0
+  new_array = []
+  while i < source_array.length do
+    new_array.push(source_array[i] + )
+    i += 1
+  end
+ return new_array
+end
