@@ -39,7 +39,7 @@ def reduce_to_total(source_array, starting_point)
   while i < source_array.length do
     starting_point + o
     i += 1
-    o+=1
+    
   end
 return starting_point
 end
